@@ -1,0 +1,11 @@
+{
+  "name": "redeemeum-api-service",
+  "version": "0.0.3",
+  "description": "Redeemeum API service to interact with the backend",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
